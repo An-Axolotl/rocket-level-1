@@ -27,10 +27,3 @@ Built from a [LOC Precision Weasel](https://locprecision.com/products/weasel) ki
 - Parachute recovery (the lime-green chute in the photo), with a Kevlar shock cord
 
 Level 1 requires you to build the rocket yourself, fly it on an H or I motor, and recover it in a condition that could fly again, with a certified observer watching.
-
-## Media
-
-`tools/` has the scripts used to prepare the media:
-
-- `remove_caption.py` removes the Snapchat caption bar from the original photo.
-- `make_gif.sh` turns the launch video into a silent GIF.
